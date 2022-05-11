@@ -5811,7 +5811,7 @@
   ],
   "images": [
     {
-      "uri": "textures/surfaceShader1_baseColor.png"
+      "uri": "/textures/surfaceShader1_baseColor.png"
     }
   ],
   "materials": [
